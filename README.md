@@ -1,2 +1,5 @@
 # DemoAuthentication
-Demo de authent. Psql-Node.js
+Implementacion de login/register
+-PostgreSQL
+-Passport
+-Pg
