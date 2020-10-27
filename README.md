@@ -1,7 +1,7 @@
 # DemoAuthentication
 <h1> Login y Registro </h1>
 
-##Tecnologias utilizadas 
+#Tecnologias utilizadas🔧
 
 -Base de datos: PostgreSQL 
 -ORM: Sequelize-Pg
